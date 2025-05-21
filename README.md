@@ -61,6 +61,49 @@ Count the number of people from each place and represent it visually
 
 12. Completed work and uploded file in Github.
 
+=======================================================================
+
+
+# MACHINE LEARNING ASSIGNMENT
+
+This folder show the machine learning assignemnts from different datasets.
+
+Submitted : Hari sankar
+
+# Machine learning 3 // Regression
+
+# Dataset: Dataset:
+Use the California Housing dataset available in the sklearn library. This dataset contains information about various features of houses in California and their respective median prices.
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as assignemnt 3_ Regression..
+5. Loading and Preprocessing : Load the California Housing dataset using the fetch_california_housing function from sklearn. 
+6. Convert the dataset into a pandas DataFrame for easier handling. 
+7. Handle missing values (if any) and perform necessary feature scaling (e.g., standardization).
+8. Explain the preprocessing steps you performed and justify why they are necessary for this dataset.
+
+9. Regression Algorithm Implementation : Implement the following regression algorithms:
+Linear Regression
+Decision Tree Regressor
+Random Forest Regressor
+Gradient Boosting Regressor
+Support Vector Regressor (SVR)
+
+10. Model Evaluation and Comparison
+Evaluate the performance of each algorithm using the following metrics:
+Mean Squared Error (MSE)
+Mean Absolute Error (MAE)
+R-squared Score (R²)
+
+11. Compare the results of all models and identify:
+The best-performing algorithm with justification.
+The worst-performing algorithm with reasoning.
+
+12. Completed work and uploded file in Github.
 
 
 
