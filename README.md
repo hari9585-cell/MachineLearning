@@ -105,6 +105,66 @@ The worst-performing algorithm with reasoning.
 
 12. Completed work and uploded file in Github.
 
+==========================================================================================
+
+
+# MACHINE LEARNING ASSIGNMENT
+
+This folder show the machine learning assignemnts from different datasets.
+
+Submitted : Hari sankar
+
+# Machine learning 4 // Assignment-4-Classification Problem
+
+# Dataset: Dataset:
+Use the breast cancer dataset available in the sklearn library.
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignment-4-Classification Problem.
+5. Explained the objective: Classify breast cancer tumors (malignant or benign) using machine learning.
+6. Mentioned dataset source: Breast cancer dataset from sklearn.datasets.
+7. Imported the dataset using load_breast_cancer() from sklearn.
+8. Converted the data into pandas DataFrame for easier manipulation.
+9. Checked for missing values using isnull().sum().sum() — confirmed there were none.
+10. Applied feature scaling using StandardScaler to standardize the feature values.
+11. Performed train-test split using train_test_split() (80% training, 20% testing).
+12. Implemented the following five classification algorithms:
+    
+12.1 Logistic Regression
+Linear model for binary classification.
+Trained and evaluated accuracy using accuracy_score.
+
+12.2 Decision Tree Classifier
+Tree-based model using recursive splits.
+Easy to interpret, used DecisionTreeClassifier().
+
+12.3 Random Forest Classifier
+Ensemble of decision trees to improve accuracy and reduce overfitting.
+Used RandomForestClassifier() with random_state.
+
+12.4 Support Vector Machine (SVM)
+Finds the optimal hyperplane in high-dimensional space.
+
+12.5 Used SVC() for classification.
+k-Nearest Neighbors (k-NN)
+
+Classifies based on labels of the k closest training samples.
+
+12.6 Used KNeighborsClassifier().
+
+13. Used accuracy_score for each model to measure performance.
+
+14. Compared model accuracies side by side using a dictionary and printed them clearly.
+
+15. Highlighted which model performed the best and worst based on accuracy.
+
+16. Completed work and uploded file in Github.
+
+
+
 
 
 
