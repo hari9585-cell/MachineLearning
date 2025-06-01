@@ -163,6 +163,37 @@ Classifies based on labels of the k closest training samples.
 
 16. Completed work and uploded file in Github.
 
+=======================================================================================================
+
+# MACHINE LEARNING ASSIGNMENT
+
+This folder show the machine learning assignemnts from different datasets.
+
+Submitted : Hari sankar
+
+# Machine learning 5 // Assignment_5-Clustering Algorithm
+
+# Dataset: Dataset:
+Use the Iris dataset available in the sklearn library.
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignment_5-Clustering Algorithm.
+5. Loaded the Iris dataset from sklearn.
+6. Drop the species column since this is a clustering problem.
+7. Implement the following two clustering algorithm.
+8. KMeans Clustering, Provided a brief description of how KMeans clustering works.
+9. Explained why KMeans clustering might be suitable for the Iris dataset.
+10. Applied KMeans clustering to the preprocessed Iris dataset and visualize the clusters
+11. Hierarchical Clustering, Provided a brief description of how Hierarchical clustering works.
+12. Explained why Hierarchical clustering might be suitable for the Iris dataset.
+13. Applied Hierarchical clustering to the preprocessed Iris dataset and visualize the clusters.
+14. Completed work and uploded file in Github.
+
+
 
 
 
