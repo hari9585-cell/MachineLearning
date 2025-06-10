@@ -193,6 +193,41 @@ Use the Iris dataset available in the sklearn library.
 13. Applied Hierarchical clustering to the preprocessed Iris dataset and visualize the clusters.
 14. Completed work and uploded file in Github.
 
+====================================================================================================
+
+
+# MACHINE LEARNING ASSIGNMENT
+
+This folder show the machine learning assignemnts from different datasets.
+
+Submitted : Hari sankar
+
+# Machine learning 6 // Assignment_6 Final Assignemnt
+
+# Dataset: Dataset:  https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignment_6 Final Assignemnt.
+
+5. Download the dataset to my PC.
+6. Load the dataset and perform necessary preprocessing steps.
+7. Implement the following five regression algorithms:
+1) Linear Regression
+2) Decision Tree Regressor
+3) Random Forest Regressor
+4) Gradient Boosting Regressor
+5) Support Vector Regressor
+
+8. pare the performance of all the models based on R-squared, Mean Squared Error (MSE), and Mean Absolute Error (MAE).
+Identified Random Forest Regressor is the best model because it gives the most accurate predictions with the lowest error and highest R² score.
+9. Identify the significant variables affecting car prices
+10. Performed hyperparameter tuning and check whether the performer of the model has increased.
+
+11. Submitted and uploaded in Github.
 
 
 
